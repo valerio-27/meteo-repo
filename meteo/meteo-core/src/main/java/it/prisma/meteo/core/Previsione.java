@@ -9,7 +9,7 @@ public class Previsione {
 
 	private Previsione(Citta citta, Temperatura temperatura, boolean allertaMeteo, CondizioneMeteo condizioneMeteo) {
 		super();
-		this.citta = citta;
+//		this.citta = citta;
 		this.temperatura = temperatura;
 		this.allertaMeteo = allertaMeteo;
 		this.condizioneMeteo = condizioneMeteo;
